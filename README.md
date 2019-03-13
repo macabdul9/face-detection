@@ -1,2 +1,2 @@
 # face-detection
-python scripts for face detection using OpenCV 
+python script for face detection using OpenCV 
